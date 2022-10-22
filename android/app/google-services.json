@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "281368843693",
+    "project_id": "zakate-97257",
+    "storage_bucket": "zakate-97257.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281368843693:android:0e22a1ac1e2d567dbabd24",
+        "android_client_info": {
+          "package_name": "com.example.zakate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281368843693-5hagbifp7k3pjlu5o0c98pmer3jmca77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zakate",
+            "certificate_hash": "ecd1025f8965961ca82c4bf4033a50f7ba6bb851"
+          }
+        },
+        {
+          "client_id": "281368843693-cfr2ofcqd8umeqnkqmft1iqqgavc8rpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOAtXyIW9frScw1my8PxGoKPTQVNOR9_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281368843693-cfr2ofcqd8umeqnkqmft1iqqgavc8rpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
